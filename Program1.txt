@@ -1,0 +1,8 @@
+import java.util.*;
+class Program1
+{
+	pubic static void main(String args[])
+	{
+		System.out.println("Hello , Welcome to programming world ! happy coding");
+	}
+}
